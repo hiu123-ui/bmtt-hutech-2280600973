@@ -4,6 +4,9 @@ from cipher.ecc import ECCCipher  # Thêm vào đầu file
 
 app = Flask(__name__)
 
+
+
+
 # RSA CIPHER ALGORITHM
 rsa_cipher = RSACipher()
 
